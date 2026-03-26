@@ -40,5 +40,20 @@
         "size": "6.5"
       }
     }
+  },
+  "picoclaw": {
+    "display_name": "PicoClaw",
+    "platform": "all",
+    "version": "0.2.4",
+    "desc": "皮皮虾，超轻量级个人 AI 助手，支持多种 LLM 提供商，比小龙虾更小、更轻快、更安全",
+    "labels": "工具,AI,效率",
+    "distributor": "EWEDL",
+    "distributor_url": "https://github.com/EWEDLCM/",
+    "bug_report_url": "https://github.com/EWEDLCM/FnDepot/issues",
+    "isdocker": "false",
+    "install_type": "系统空间",
+    "size": "38",
+    "download_url": "",
+    "changelog": "更新至 0.2.4\n同步最新 PicoClaw 安装包"
   }
 }
